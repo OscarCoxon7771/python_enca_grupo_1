@@ -21,3 +21,5 @@ def longitud_de_palabras(palabras):
     return long_total / len(palabras)
 # Llamar a la función y mostrar el resultado
 print("La longitud promedio de las palabras es:", longitud_de_palabras(lista_palabras))
+
+#wasapreba
